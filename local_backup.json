@@ -1,0 +1,17 @@
+[
+{
+  "model": "trekking.yourtrekking",
+  "pk": 1,
+  "fields": {
+    "trek_date": "2026-04-25",
+    "weekday": "Sat",
+    "meeting_type": null,
+    "meeting_type_id": 1,
+    "location": "HOME",
+    "companion1": null,
+    "companion2": null,
+    "companion3": null,
+    "notes": "Django Mission"
+  }
+}
+]
