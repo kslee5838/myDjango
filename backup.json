@@ -1,0 +1,302 @@
+[
+{
+  "model": "trekking.yourtrekking",
+  "pk": 1,
+  "fields": {
+    "trek_date": "2023-06-17",
+    "weekday": "금,토요일",
+    "meeting_type": "좋은사람들",
+    "meeting_type_id": null,
+    "location": "금원산",
+    "companion1": "-",
+    "companion2": "정재순",
+    "companion3": "-",
+    "notes": null
+  }
+},
+{
+  "model": "trekking.yourtrekking",
+  "pk": 2,
+  "fields": {
+    "trek_date": "2023-06-06",
+    "weekday": "화요일",
+    "meeting_type": "동서울터미널",
+    "meeting_type_id": null,
+    "location": "설악산",
+    "companion1": "-",
+    "companion2": "혼자",
+    "companion3": "-",
+    "notes": null
+  }
+},
+{
+  "model": "trekking.yourtrekking",
+  "pk": 3,
+  "fields": {
+    "trek_date": "2023-05-26",
+    "weekday": "금, 비왔음",
+    "meeting_type": "불광역",
+    "meeting_type_id": null,
+    "location": "북한산,족두리봉",
+    "companion1": "-",
+    "companion2": "혼자",
+    "companion3": "-",
+    "notes": null
+  }
+},
+{
+  "model": "trekking.yourtrekking",
+  "pk": 4,
+  "fields": {
+    "trek_date": "2023-05-20",
+    "weekday": "토,일요일",
+    "meeting_type": "좋은사람들",
+    "meeting_type_id": null,
+    "location": "설악산",
+    "companion1": "-",
+    "companion2": "정재순",
+    "companion3": "-",
+    "notes": null
+  }
+},
+{
+  "model": "trekking.yourtrekking",
+  "pk": 5,
+  "fields": {
+    "trek_date": "2023-07-19",
+    "weekday": "수,목,금",
+    "meeting_type": "좋은사람들",
+    "meeting_type_id": null,
+    "location": "일본, 후지산",
+    "companion1": "동료들",
+    "companion2": "정민호",
+    "companion3": "the Sacred Place",
+    "notes": null
+  }
+},
+{
+  "model": "trekking.yourtrekking",
+  "pk": 7,
+  "fields": {
+    "trek_date": "2024-11-02",
+    "weekday": "토",
+    "meeting_type": "좋은사람들",
+    "meeting_type_id": null,
+    "location": "내장산",
+    "companion1": "정재순",
+    "companion2": "",
+    "companion3": null,
+    "notes": null
+  }
+},
+{
+  "model": "trekking.yourtrekking",
+  "pk": 8,
+  "fields": {
+    "trek_date": "2025-06-22",
+    "weekday": "토",
+    "meeting_type": null,
+    "meeting_type_id": null,
+    "location": "수락산",
+    "companion1": "혼자",
+    "companion2": "",
+    "companion3": null,
+    "notes": null
+  }
+},
+{
+  "model": "trekking.yourtrekking",
+  "pk": 9,
+  "fields": {
+    "trek_date": "2025-07-13",
+    "weekday": "일요일",
+    "meeting_type": "-",
+    "meeting_type_id": null,
+    "location": "불곡산",
+    "companion1": "혼자",
+    "companion2": "",
+    "companion3": null,
+    "notes": null
+  }
+},
+{
+  "model": "trekking.yourtrekking",
+  "pk": 10,
+  "fields": {
+    "trek_date": "2023-07-05",
+    "weekday": "토요일",
+    "meeting_type": "좋은사람들",
+    "meeting_type_id": null,
+    "location": "방태산 아침가리 계곡",
+    "companion1": "정재순",
+    "companion2": "",
+    "companion3": null,
+    "notes": null
+  }
+},
+{
+  "model": "trekking.yourtrekking",
+  "pk": 12,
+  "fields": {
+    "trek_date": "2025-12-25",
+    "weekday": "목요일",
+    "meeting_type": "등산",
+    "meeting_type_id": 101,
+    "location": "설악산",
+    "companion1": "혼자서",
+    "companion2": "환상적",
+    "companion3": "햄버거",
+    "notes": null
+  }
+},
+{
+  "model": "trekking.yourtrekking",
+  "pk": 13,
+  "fields": {
+    "trek_date": "2026-01-04",
+    "weekday": "Sunday",
+    "meeting_type": "Alone",
+    "meeting_type_id": null,
+    "location": "북한산",
+    "companion1": "삼송스타필드",
+    "companion2": "24시콩나물 해장국",
+    "companion3": "신발2결",
+    "notes": null
+  }
+},
+{
+  "model": "trekking.yourtrekking",
+  "pk": 15,
+  "fields": {
+    "trek_date": "2026-01-10",
+    "weekday": "Sun",
+    "meeting_type": null,
+    "meeting_type_id": null,
+    "location": "Undal peak",
+    "companion1": "정재순",
+    "companion2": "힘들었지만 눈 바람 멋진 뷰",
+    "companion3": null,
+    "notes": null
+  }
+},
+{
+  "model": "trekking.yourtrekking",
+  "pk": 18,
+  "fields": {
+    "trek_date": "2026-01-31",
+    "weekday": "Sat",
+    "meeting_type": "Good People Bus",
+    "meeting_type_id": null,
+    "location": "운장 구봉산",
+    "companion1": "정재순",
+    "companion2": "정민호",
+    "companion3": null,
+    "notes": null
+  }
+},
+{
+  "model": "trekking.yourtrekking",
+  "pk": 19,
+  "fields": {
+    "trek_date": "2026-01-17",
+    "weekday": "Sat",
+    "meeting_type": "-",
+    "meeting_type_id": null,
+    "location": "수락산",
+    "companion1": null,
+    "companion2": null,
+    "companion3": null,
+    "notes": null
+  }
+},
+{
+  "model": "trekking.yourtrekking",
+  "pk": 20,
+  "fields": {
+    "trek_date": "2026-01-17",
+    "weekday": "Sat",
+    "meeting_type": "alone",
+    "meeting_type_id": null,
+    "location": "수락산",
+    "companion1": "by myself",
+    "companion2": null,
+    "companion3": null,
+    "notes": ""
+  }
+},
+{
+  "model": "trekking.yourtrekking",
+  "pk": 21,
+  "fields": {
+    "trek_date": "2026-01-28",
+    "weekday": "일요일",
+    "meeting_type": null,
+    "meeting_type_id": 0,
+    "location": "Suraksan",
+    "companion1": "2주째 같은 코스",
+    "companion2": null,
+    "companion3": null,
+    "notes": ""
+  }
+},
+{
+  "model": "trekking.yourtrekking",
+  "pk": 22,
+  "fields": {
+    "trek_date": "2026-02-19",
+    "weekday": "Thur",
+    "meeting_type": "SHE",
+    "meeting_type_id": null,
+    "location": "Da Nang",
+    "companion1": "With HER",
+    "companion2": null,
+    "companion3": null,
+    "notes": "Hoian also"
+  }
+},
+{
+  "model": "trekking.yourtrekking",
+  "pk": 23,
+  "fields": {
+    "trek_date": "2026-02-28",
+    "weekday": "Sat",
+    "meeting_type": "좋은사람들 버스",
+    "meeting_type_id": null,
+    "location": "가야산",
+    "companion1": "정재순",
+    "companion2": "위계진",
+    "companion3": null,
+    "notes": "귀경후 KFC 햄버거, 경비 1인당 8만원"
+  }
+},
+{
+  "model": "trekking.yourtrekking",
+  "pk": 24,
+  "fields": {
+    "trek_date": "2026-03-02",
+    "weekday": "Mon",
+    "meeting_type": null,
+    "meeting_type_id": null,
+    "location": "북한산, 불광동에서 족두리봉, 진관사 방향내려옴, 눈발 추워라",
+    "companion1": "혼자",
+    "companion2": null,
+    "companion3": null,
+    "notes": ""
+  }
+},
+{
+  "model": "trekking.yourtrekking",
+  "pk": 25,
+  "fields": {
+    "trek_date": "2026-03-07",
+    "weekday": "Sat",
+    "meeting_type": null,
+    "meeting_type_id": null,
+    "location": "진관사 코스",
+    "companion1": "혼자",
+    "companion2": "눈 눈 스피드고트 운동화",
+    "companion3": null,
+    "notes": "겨울과 봄사이에 날씨와 신발로 고생함"
+  }
+}
+]

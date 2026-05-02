@@ -15,7 +15,7 @@ class YourTrekking(models.Model):
     class Meta:
         app_label = 'trekking'  # Add this line!
         db_table = 'yourtrekking'
-        managed = False
+        managed = True
 
     def __str__(self):
         return f"{self.trek_date} - {self.location}"

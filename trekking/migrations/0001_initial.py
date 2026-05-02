@@ -27,7 +27,7 @@ class Migration(migrations.Migration):
             ],
             options={
                 'db_table': 'yourtrekking',
-                'managed': False,
+                'managed': True,
             },
         ),
     ]
